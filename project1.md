@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 ## Step1 
 
 ## Installing Apache and updating firewall
@@ -116,3 +117,5 @@
 
 
 
+=======
+>>>>>>> 068c7dfc1cb1deff3c101b3e1a841b627a1dfc93
